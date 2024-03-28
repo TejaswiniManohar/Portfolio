@@ -8,10 +8,10 @@
 
 ## Work Experience
 **User Services Specialist @ CMICH University Libraries (_Oct 2022- Present_)**
--Proficiently used Alma and MelCat systems to facilitate efficient library operations, including 
+- Proficiently used Alma and MelCat systems to facilitate efficient library operations, including 
 assisting patrons with checkout, return, and inquiries.
--Provided expert research support, guiding patrons through databases, catalogs, and online resources.
--Offered technical guidance on using library equipment, such as photocopiers and scanners.
+- Provided expert research support, guiding patrons through databases, catalogs, and online resources.
+- Offered technical guidance on using library equipment, such as photocopiers and scanners.
 
 **Data Scientist @ Accenture Solutions (_Nov 2021 - Aug 2022_)**
 - Analyzed and Reduced processing time of restricted customer accounts by 40% through verifying their identity and authorizing access to the client’s streaming and payment platform.
