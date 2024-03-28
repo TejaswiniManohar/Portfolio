@@ -1,1 +1,5 @@
-
+tittle: Tejaswini Manohar
+#logo: /assets/img/headshot.circle.png
+#description: text below image
+#show_downloads: false
+theme:jekyll-theme-minimal
