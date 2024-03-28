@@ -7,7 +7,7 @@
 - Bachelor of Business Administration | Bangalore University (_Nov 2021_)
 
 ## Work Experience
-** User Services Specialist @ CMICH University Libraries (_Oct 2022- Present_)**
+**User Services Specialist @ CMICH University Libraries (_Oct 2022- Present_)**
 -Proficiently used Alma and MelCat systems to facilitate efficient library operations, including 
 assisting patrons with checkout, return, and inquiries.
 -Provided expert research support, guiding patrons through databases, catalogs, and online resources.
